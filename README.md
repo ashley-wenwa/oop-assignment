@@ -54,8 +54,4 @@ python3 polymorphism.py
 
 ## 💡 Author
 
-Created as part of a Python learning exercise with help from ChatGPT.
-
----
-
-Feel free to customize or expand the classes with more attributes, logic, or interactivity!
+Ashley Wenwa
